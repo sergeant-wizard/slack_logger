@@ -33,3 +33,8 @@ jobs:
         pip install pytest
         pip install .
         pytest
+    - name: Test with mypy
+      run: |
+        pip install mypy
+        pip install .
+        mypy example.py slack_logger tests                                                                                                               
