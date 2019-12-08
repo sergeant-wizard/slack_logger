@@ -1,1 +1,1 @@
-from .slack_logger import SlackLogger  # NOQA
+from .slack_logger import HostnameFilter, SlackHandler  # NOQA

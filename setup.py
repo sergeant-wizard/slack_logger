@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='slack logger',
-    version='0.0.1',
+    version='0.0.2',
     description='logging.Handler for Slack',
     author='Ryo Miyajima',
     license='TBD',
