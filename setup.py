@@ -8,6 +8,6 @@ setup(
     license='TBD',
     packages=['slack_logger'],
     install_requires=[
-        'requests==2.23.0',
+        'requests==2.31.0',
     ],
 )
